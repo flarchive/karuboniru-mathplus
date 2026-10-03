@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of karuboniru/mathplus.** Not for installation: use [Packagist](https://packagist.org/packages/karuboniru/mathplus) or the [upstream repository](https://github.com/karuboniru/Mathplus).
 
-**0** versions archived · Latest: [`0.3.4`](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.4) · License: `mit` · Flarum: `^1.0`
+**10** versions archived · Latest: [`0.3.4`](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.4) · License: `mit` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-17 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.1.0) |
+| `0.1.2` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.1.3) |
+| `0.2.0` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-05-09 | `>=0.1.0-beta.16` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.2.1) |
+| `0.3.0` | 2021-06-02 | `1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-06-04 | `^1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.1) |
+| `0.3.2` | 2021-06-05 | `^1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.2) |
+| `0.3.3` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.3) |
+| `0.3.4` | 2021-08-19 | `^1.0` | [Browse](https://github.com/flarchive/karuboniru-mathplus/tree/archive/v0.3.4) |
 
 Catalog entry: [packages/karuboniru-mathplus.json](https://github.com/flarchive/archive-index/blob/main/packages/karuboniru-mathplus.json)
 
